@@ -4,91 +4,46 @@
     <list default="true" id="e066995f-3632-465d-8fd2-68ee9ec91f40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game engines project/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game engines project/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Game engines project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Game engines project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/01/010f2fe15d56f2565c9cf569a75771bf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/02/02db51d3cfc7bd737b9f0f895ce587b0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/03/038021fd949cd3fe6d84dbb399b0ed9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/03/03bc8235c537b25f5202da7ad54eddfa" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/03/03d94c6ae71d6c6d3493183dd900b649" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/04/047dce81cfa946892f7111910d9424f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0d/0dd3129eb50c59e2712c5cc8d5307591" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/12/12c91a77689c7921af9e59d6fdd0fe2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/13/134b592b772121833b75de0a1a165ba7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/18/18576a082bea5a7477c71e227d7f57b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1a/1a42ec65f3c6d5ae72ba36bc1c957475" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1b/1b91e35a1bc61c0ec0584edc591d9d6d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/1e/1e1928c2f8583dd516435312103bfab7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/28/281ca490eee30db1a2c2db906abab22e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/2a/2aae8a1d855dec9de85aef569da90139" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/31/31f6d1a0472af87d2c5c209cfcf2e758" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/36/364f3ec935e8fed701aa4558b1ee5964" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/38/384a99caebdf2314d381c91d0043125d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/39/391284f5e6588d88343db64ea2e2ea84" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/39/39e6af8c5ffc7eef270239fdf6a1738a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/3a/3a7f684039d1d93126ed9655cd6bc128" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/42/427462b584289496a792b5285d1d8881" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/44/44985da715342264bb0307902ef91818" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/45/45265b1f4aa88938b97e6bdf53a21d5f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/49/496a70621f04a20051a13848c1522b0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4d/4d58c47f0caf17bf2451771a8f91a893" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/54/54d2f0ee23704820ca537d88bd2b9150" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/58/58c6a66cfa0ed19378361efd9fd7d4d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5e/5e6a182d06fdc08a2fb7ba557e96e923" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5f/5ff85ff896c6e76b61e3e3383770fcfc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/60/605e1953d4422461ce68c9f44fe0b74f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/61/612a3231d74b2d406878a3116cea7dd6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/61/61d03661bfb5b5af4b2397739f29dc27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/63/63f5198f662df653ed5823f78f2721e0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/68/686b1a47f1e70d85dbafd451498042d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/69/69196faa38606008dbe72ecfe96e14e6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6b/6b445c59527af22ed9b592cebd74387f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6d/6d2b1683433957e68af05a7eff8f4dca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/70/707b8660929c3af2aec7cdf524f24453" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/770c9b9e52c0dc92ef614e4395dfb771" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/89/890811a631fa2981680d9e11f0f2ca5b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8a/8a314d26067010750a31d5f719aaf57f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8c/8c9143bb117ab876e0e9746f5b401545" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/8f/8f14ff28068900cc079e1869430b51e2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/94/943519be68ee4f601d856e5a3b6cb362" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/94/948452f9f80df4f2a1f36ef1c33726be" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/95/95ad1e14f7c6f5acc5961ee1a5f6d798" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/96/96c7392039c90c3740964fcf7ef03b60" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9a/9a193b4934ad6867847ae4789fb177a1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/9f/9fcc757cff895acea30dc44fabadec0b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a3/a3bb8f88bad6db7130e87b2418aedd43" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a6/a670725236fdc2bbcfd40fdcc2e26f83" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a8/a8db443c6472ea5671bac40ff284052f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/aa/aa89c92782244c3071678e6f874adad7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ae/aef2334efba6926f6717d7795d775030" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/af/af63dec5098cd7b063543d0a604775fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b6/b6887549884d166d2742ea931c1624ae" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bc/bcc76213318d6bd319c2a509c5cc4ca5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bd/bd5fd284fb5865f8978bd943d90b3d12" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c0f6ae8022f7e148702590415a0ff2a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c4/c4a71f812775db490d57b376e52c2afd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c6/c6757d25de41891e7c144f199b645601" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ce/ce517e0d6c9c30dd97dc030c246f2ef2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d1/d106fec71549357efa8f874c148fef28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d1/d1966d1d93303426879865493d5a086c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/d6/d6b425da2edf4697bbb5361cbd2a9b21" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/da/da36f8900d959d6e980af347caa3fc6f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/e1/e1fd805be2dfec4e5ea47183206f8543" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f5/f5aeb6b1cbfdf55479eb5d6505badc9e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f9/f970297a36789a199a15f69e804fb629" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/fd/fd951e65b07347753fc675f2b88e43b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/Artifacts/ff/ff999d3060e61c58655ef4a247dcbb00" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/08/08af447a6c5f640c519ef7be7a79f898" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0a/0a35cc056d757e071a4b870e13b2e632" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0c/0c12477d26dea1e5526b4f828829f7a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/0d/0db132f1a3344e63c51acfb3d6bfdd37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/23/23f9beff9783aaced02671485b4da919" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/37/37e5c3076fcd3e41b5a8535ffebf8b49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/39/3902638dfe263f258480a08ae9bb22a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/40/407ba4428178ddf0d02b3496aff14802" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/48/48cfb2af0655b0d051b574ac5410cc93" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/4b/4be8f7fcf6e2d484fd0047b1424056d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/51/5166c858f8dfebbbd9986cac512d9a68" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/56/560821549744f00e8545b57f00c6233a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5b/5b7ee796cbe806f262505b13f344ac56" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/6a/6afd42c043811f3125586787774e7919" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/77/775b36f5ec76242e3f38e876a7c022d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7a/7a6cb2e315fcc64db628ce1d68a7a0e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/7f/7f88078f66a6a6c35ceca29241b3d1b5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/80/80d2a13e87690cce034c5e7d33d27df0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/81/819b423105e8b231ee671722b50d56cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/88/88ca8eb45ecd4b0ae3ffafbfcd668779" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/95/95586ad6a2c0db5f4231f32d691f146f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/99/99081b360ba9db2024d5759672ce6272" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a4/a40767400020c5f95e6fd6ff6d0b158e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/a7/a71c59b505af2a83cc4eef7653f23348" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b6/b60e985edf2ea7d7d171dddc244f6fc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/b7/b708b9ac5cad3f92a1f415e310bb910b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/bd/bdc0a0197805136aa0c84428dc237df8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c8/c82834b0a9f47fdba9d203562888d174" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/cd/cd614b883cb332e7affd603b07596d39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f0/f08f7c91a91631d63aa1aa2d642959a9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f6/f6cc7518accaa60c3b348d90c3f5bdd9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/f8/f826b2d41db3900f7adc6804f7d34c95" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/fad7b4-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/fad7b4-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/752ff0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/752ff0-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,10 +54,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Terrane.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1206">
+            <state relative-caret-position="1200">
               <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
               <folding>
                 <marker date="1576332695891" expanded="false" signature="6:108" ph="..." />
@@ -122,24 +77,42 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Audio.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+            <state relative-caret-position="768">
+              <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
               <folding>
-                <marker date="1576338274335" expanded="false" signature="6:78" ph="..." />
-                <marker date="1576338274335" expanded="true" signature="156:598" ph="{...}" />
-                <marker date="1576338274335" expanded="true" signature="313:376" ph="{...}" />
-                <marker date="1576338274335" expanded="true" signature="434:480" ph="{...}" />
-                <marker date="1576338274335" expanded="true" signature="515:596" ph="{...}" />
+                <marker date="1576347285001" expanded="false" signature="6:78" ph="..." />
+                <marker date="1576347285001" expanded="true" signature="156:1145" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="364:427" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="485:561" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="596:677" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="708:1143" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="774:1137" ph="{...}" />
+                <marker date="1576347285001" expanded="true" signature="968:1062" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ParaCubes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1576347815065" expanded="false" signature="6:78" ph="..." />
+                <marker date="1576347815065" expanded="true" signature="118:498" ph="{...}" />
+                <marker date="1576347815065" expanded="true" signature="263:284" ph="{...}" />
+                <marker date="1576347815065" expanded="true" signature="342:496" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/AudioCubes.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+            <state relative-caret-position="457">
+              <caret line="33" column="105" lean-forward="true" selection-start-line="33" selection-start-column="105" selection-end-line="33" selection-end-column="105" />
               <folding>
                 <marker date="1576339275216" expanded="false" signature="6:78" ph="..." />
                 <marker date="1576339275216" expanded="true" signature="120:1109" ph="{...}" />
@@ -160,6 +133,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/AudioCubes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ParaCubes.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Audio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Terrane.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -168,16 +142,18 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/MeshGen.cs" />
         <option value="$PROJECT_DIR$/Assets/Terrane.cs" />
-        <option value="$PROJECT_DIR$/Assets/Audio.cs" />
         <option value="$PROJECT_DIR$/Assets/AudioCubes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Audio.cs" />
+        <option value="$PROJECT_DIR$/Assets/paraCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/ParaCubes.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1052" />
-    <option name="y" value="130" />
-    <option name="width" value="909" />
-    <option name="height" value="588" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="450" />
+    <option name="y" value="537" />
+    <option name="width" value="910" />
+    <option name="height" value="589" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -190,12 +166,12 @@
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,11 +223,12 @@
       <workItem from="1576328729620" duration="1574000" />
       <workItem from="1576330505990" duration="2190000" />
       <workItem from="1576337358048" duration="2667000" />
+      <workItem from="1576346445903" duration="1691000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10584000" />
+    <option name="totallyTimeSpent" value="12275000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,6 +241,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.020805368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -283,7 +261,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
-      <window_info active="true" anchor="bottom" id="Unity" order="13" visible="true" weight="0.2082153" />
+      <window_info anchor="bottom" id="Unity" order="13" weight="0.2082153" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -312,39 +290,9 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/MeshGen.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/AudioCubes.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding>
-            <marker date="1576339275216" expanded="false" signature="6:78" ph="..." />
-            <marker date="1576339275216" expanded="true" signature="120:1109" ph="{...}" />
-            <marker date="1576339275216" expanded="true" signature="299:809" ph="{...}" />
-            <marker date="1576339275216" expanded="true" signature="343:803" ph="{...}" />
-            <marker date="1576339275216" expanded="true" signature="867:1107" ph="{...}" />
-            <marker date="1576339275216" expanded="true" signature="911:1101" ph="{...}" />
-            <marker date="1576339275216" expanded="true" signature="957:1091" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Audio.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <marker date="1576338274335" expanded="false" signature="6:78" ph="..." />
-            <marker date="1576338274335" expanded="true" signature="156:598" ph="{...}" />
-            <marker date="1576338274335" expanded="true" signature="313:376" ph="{...}" />
-            <marker date="1576338274335" expanded="true" signature="434:480" ph="{...}" />
-            <marker date="1576338274335" expanded="true" signature="515:596" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Terrane.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1206">
+        <state relative-caret-position="1200">
           <caret line="82" column="3" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
           <folding>
             <marker date="1576332695891" expanded="false" signature="6:108" ph="..." />
@@ -356,6 +304,59 @@
             <marker date="1576332695891" expanded="true" signature="1039:1507" ph="{...}" />
             <marker date="1576332695891" expanded="true" signature="1089:1480" ph="{...}" />
             <marker date="1576332695891" expanded="true" signature="1556:1665" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Audio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="50" column="35" selection-start-line="50" selection-start-column="35" selection-end-line="50" selection-end-column="35" />
+          <folding>
+            <marker date="1576347285001" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576347285001" expanded="true" signature="156:1145" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="364:427" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="485:561" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="596:677" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="708:1143" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="774:1137" ph="{...}" />
+            <marker date="1576347285001" expanded="true" signature="968:1062" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/paraCube.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ParaCubes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1576347815065" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576347815065" expanded="true" signature="118:498" ph="{...}" />
+            <marker date="1576347815065" expanded="true" signature="263:284" ph="{...}" />
+            <marker date="1576347815065" expanded="true" signature="342:496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/AudioCubes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="33" column="105" lean-forward="true" selection-start-line="33" selection-start-column="105" selection-end-line="33" selection-end-column="105" />
+          <folding>
+            <marker date="1576339275216" expanded="false" signature="6:78" ph="..." />
+            <marker date="1576339275216" expanded="true" signature="120:1109" ph="{...}" />
+            <marker date="1576339275216" expanded="true" signature="299:809" ph="{...}" />
+            <marker date="1576339275216" expanded="true" signature="343:803" ph="{...}" />
+            <marker date="1576339275216" expanded="true" signature="867:1107" ph="{...}" />
+            <marker date="1576339275216" expanded="true" signature="911:1101" ph="{...}" />
+            <marker date="1576339275216" expanded="true" signature="957:1091" ph="{...}" />
           </folding>
         </state>
       </provider>
