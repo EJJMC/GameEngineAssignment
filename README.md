@@ -6,7 +6,7 @@
 For this assignment, I would like to make a procedurally generated idea based on the "Vapor Wave" aesthetic.
 I would like to have 3d objects from this asetic decorate the screen and have a procedurally generated grid/landscape encompass it.
 
-##Final Concept
+## Final Concept
 
 For my final concept, I still went for the Vaper Wave asethic but made it more streamlined. There is now an audio visuliser element to the game.
 
