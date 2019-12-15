@@ -1,7 +1,7 @@
 # GameEnginesAssignment
  EoinMcSharry c17304091
 
-##Initial Concept
+## Initial Concept
 
 For this assignment, I would like to make a procedurally generated idea based on the "Vapor Wave" aesthetic.
 I would like to have 3d objects from this asetic decorate the screen and have a procedurally generated grid/landscape encompass it.
@@ -10,7 +10,7 @@ I would like to have 3d objects from this asetic decorate the screen and have a 
 
 For my final concept, I still went for the Vaper Wave asethic but made it more streamlined. There is now an audio visuliser element to the game.
 
-##Development
+## Development
 
 The first implimentation I made was the terrain. The terrain is made through a mesh. The mesh has a filter and a render. In code, the mesh terrain was made with quads from verticies. Perlin noise was used to make the terrain more sperratic. The terrain size and with can be edited in the inspector.
 
@@ -20,6 +20,6 @@ The movement of the camera was done by adding force using rigidbodies. Once it m
 
 The pattern on the ground was done by shaders. The lenght, with and colour of this shader can be edited in the inspector.
 
-##Conclusion
+## Conclusion
 
 I was very happy with how this project turned out. I did have a github/shader issue causing me to re do the unity project and copy assets over which took some time. I very much like the way this project looks astetically. This project has tought me so much about procedural genoration in unity.
